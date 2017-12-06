@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>学无止境</title>
+  
+  <subtitle>Stay hungry, stay foolish</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://Faith-Y.github.io/"/>
+  <updated>2017-12-06T12:38:47.000Z</updated>
+  <id>https://Faith-Y.github.io/</id>
+  
+  <author>
+    <name>X Y</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://Faith-Y.github.io/2017/12/06/hello-world/"/>
+    <id>https://Faith-Y.github.io/2017/12/06/hello-world/</id>
+    <published>2017-12-06T12:37:48.000Z</published>
+    <updated>2017-12-06T12:38:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>种一棵树最好的时机是十年前，其次是现在。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;种一棵树最好的时机是十年前，其次是现在。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
